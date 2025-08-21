@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+Video created with Loom
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
